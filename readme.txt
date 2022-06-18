@@ -4,3 +4,4 @@ this file is just a try while learning git.
 now,i am ready to cook.
 shanghai is a good city.
 create a new branch dev.
+now, i add a new branch and modifiy readme.txt.
